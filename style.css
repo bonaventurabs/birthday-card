@@ -195,13 +195,14 @@ body {
 }
 
 .title span {
-  text-align: center;
+  display: block;
+  text-align: right;
   color: var(--black-blue);
   font-family: 'Oleo Script', cursive;
 }
 
 .title b {
-  text-align: center;
+  text-align: right;
   color: var(--black-blue);
   font-family: 'Oleo Script', cursive;
 }
