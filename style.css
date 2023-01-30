@@ -81,6 +81,7 @@ body {
 .back {
   transform: rotateY(180deg);
   background: linear-gradient(to left, var(--white-1), var(--white) 30%);
+  overflow: hidden;
 }
 .cake {
   width: 100%;
