@@ -194,6 +194,18 @@ body {
   font-family: 'Oleo Script', cursive;
 }
 
+.title span {
+  text-align: center;
+  color: var(--black-blue);
+  font-family: 'Oleo Script', cursive;
+}
+
+.title b {
+  text-align: center;
+  color: var(--black-blue);
+  font-family: 'Oleo Script', cursive;
+}
+
 .title h1 {
   font-size: 100px;
   line-height: 80px;
